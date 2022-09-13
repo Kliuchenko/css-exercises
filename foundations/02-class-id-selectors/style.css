@@ -1,0 +1,19 @@
+
+.odd {
+    background-color: pink;
+}
+
+.odd.third {
+    font-size: 24px;
+}
+
+#oneID {
+    color: blue;
+    font-size: 36px;
+}
+
+#anotherID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
