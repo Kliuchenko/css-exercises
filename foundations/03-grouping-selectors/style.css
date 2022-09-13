@@ -1,0 +1,14 @@
+.firstBtn,
+.secondBtn {
+    font-size: 28px;
+    font-family: Helvetica, sans-serif;
+}
+
+.firstBtn {
+    color: aliceblue;
+    background-color: #131313;
+}
+
+.secondBtn {
+    background-color: yellow;
+}
